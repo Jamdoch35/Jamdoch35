@@ -1,0 +1,3 @@
+git Remote Add Origin https://github.com/Jamdoch35/Jamdoch35.git
+ فرع git -M الرئيسي 
+git Push -u Origin main
